@@ -1,0 +1,15 @@
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/bin/Debug/net8.0/CSharpNotes
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/bin/Debug/net8.0/CSharpNotes.deps.json
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/bin/Debug/net8.0/CSharpNotes.runtimeconfig.json
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/bin/Debug/net8.0/CSharpNotes.dll
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/bin/Debug/net8.0/CSharpNotes.pdb
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.AssemblyInfoInputs.cache
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.AssemblyInfo.cs
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.csproj.CoreCompileInputs.cache
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.sourcelink.json
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.dll
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/refint/CSharpNotes.dll
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.pdb
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/CSharpNotes.genruntimeconfig.cache
+/Users/mike/Desktop/Datamatiker/CSharpNotes/csharpnotes/CSharpNotes/obj/Debug/net8.0/ref/CSharpNotes.dll
